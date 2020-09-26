@@ -1,0 +1,45 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <!-- Settings/Appearance -->
+    <string name="settings_title_display">Display</string>
+    <string name="setting_theme">ธีม</string>
+
+    <string name="setting_wind_direction_format">รูปแบบทิศทางลม</string>
+    <string name="setting_theme_fresh">Fresh</string>
+    <string name="setting_theme_classic">Classic</string>
+    <string name="setting_theme_dark">Fresh Dark</string>
+    <string name="setting_theme_classic_dark">Classic Dark</string>
+    <string name="setting_theme_black">Fresh Black</string>
+    <string name="setting_theme_classic_black">Classic Black</string>
+
+    <string name="wind_direction_format_none">ไม่มีข้อบ่งชี้</string>
+    <string name="wind_direction_format_arrows">ลูกศร</string>
+    <string name="wind_direction_format_abbreviations">คำย่อ</string>
+    <string name="setting_displayDecimalZeroes">แสดงศูนย์ทศนิยม</string>
+
+    <!-- Settings/Data -->
+    <string name="last_update">การอัพเดทครั้งล่าสุด :\n%s</string>
+    <string name="last_update_widget">\nการอัพเดทครั้งล่าสุด: %s</string>
+    <string name="settings_title_data">ข้อมูล</string>
+
+    <string name="settings_none"> ไม่มี</string>
+    <string name="settings_15min">15 นาที</string>
+    <string name="settings_30min">30 นาที</string>
+    <string name="settings_1hour">1 ชั่วโมง</string>
+    <string name="settings_2hour">2 ชั่วโมง</string>
+    <string name="settings_6hour">6 ชั่วโมง</string>
+    <string name="settings_12hour">12 ชั่วโมง</string>
+    <string name="settings_24hour">24 ชั่วโมง</string>
+
+
+    <!-- Settings/Date format -->
+    <string name="error_dateFormat">ข้อผิดพลาดเกี่ยวกับรูปแบบวันที่</string>
+    <string name="setting_dateFormat">รูปแบบวันที่</string>
+    <string name="setting_dateFormatCustom">รูปแบบวันที่ที่กำหนดเอง</string>
+    <string name="setting_dateFormatCustom_summary">Provide the custom SimpleDateFormat string to be used</string>
+    <string name="setting_available_simple_string_codes" translatable="false">yYMwWDdFEuaHkKhmsSzZX</string>
+    <string name="setting_example_simple_string" translatable="false">EEEE, d MMM yyyy h:mm:ss a, zzzz</string>
+    <string name="dialog_ok">ตกลง</string>
+    <string name="dialog_cancel">ยกเลิก</string>
+</resources>
